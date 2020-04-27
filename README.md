@@ -21,7 +21,7 @@
 
 ## https://youtu.be/ktn7rHvYAVs
 ## https://youtu.be/orBP22_Bvws
-### Video of the technical presentation on my youtube channel.
+### Video of the technical presentation on my youtube channel (2 parts)
 
-## https://poariston.github.io/
+## https://poariston.github.io/the_one_with_all_the_prediction
 ### Blog post related to this project
